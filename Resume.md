@@ -27,7 +27,20 @@
 
 ---
 
-## About Me
+## Skills
 
+**Technical**
 
-I am an objective driven individual
+| Coding Languages | 0-1 Years | 1-2 Years | 2-3 Years | 4-5 Years | 5+ Years |
+| :--------------: | :-------: | :-------: | :-------: | :-------: | :------: |
+| Java             |           |           |           |           |  ✓       |
+| C/C++            |           |  ✓        |           |           |          |
+| JavaScript       |  ✓        |           |           |           |          |
+| Assembly         |  ✓        |           |           |           |          |
+| HTML5            |  ✓        |           |           |           |          |
+| Ruby             |  ✓        |           |           |           |          |
+
+**Non-Technical**
+
+* Strong inter-personal skills
+* Highly Adaptable
