@@ -69,4 +69,5 @@
 * Board Games
 * Acting
 * Teaching
+* Fishing
 
