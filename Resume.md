@@ -44,3 +44,29 @@
 
 * Strong inter-personal skills
 * Highly Adaptable
+* Good writer
+* Friendly and easy-going
+* Good composure despite verbal abuse
+* Works well in high-pressure enviroments
+* Detail-oriented
+
+---
+
+## Education
+
+*Bachelor of Computer Science* (Ongoing - University of Manitoba) <br>
+*Minor in History* (Ongoing - University of Manitoba) <br>
+*High School Diploma* (2017 - Grant Park High School)
+
+---
+
+## Interests
+
+* Hockey
+* Dungeons & Dragons
+* World History
+* Reading
+* Board Games
+* Acting
+* Teaching
+
