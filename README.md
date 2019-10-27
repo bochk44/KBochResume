@@ -27,7 +27,7 @@ Welcome to the world of Markdown!
 9. Verify that you are now looking at something something similar to the following screen <br> <br>
 ![Packages Screenshot](README_Pictures/Screenshot5.png) <br> <br>
 
-**Now you are ready to begin working with Markdown!**
+**You are now ready to begin working with Markdown!**
 
 ---
 
