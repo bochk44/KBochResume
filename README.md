@@ -4,8 +4,8 @@ By following this guide, you will be able to post your [resume](https://bochk44.
 
 ---
 
-A) <a id="first_step">Setting up Atom for Markdown</a>
----
+## A) <a id="first_step">Setting up Atom for Markdown</a>
+
 
 This section is intended to help you set up the necessary tools for effectively working with Markdown. There are many other editors that you could use but this is one of the more popular and straightforward options.
 
@@ -33,8 +33,8 @@ Welcome to the world of Markdown!
 
 ---
 
-B) <a id="second_step">Writing a Resume in Markdown</a>
----
+## B) <a id="second_step">Writing a Resume in Markdown</a>
+
 
 This section is intended to help guide you through building your resume. It is rather short compared to the rest as this is not truly the focus of this guide. Instead, this will simply try to give you the tools and couple helpful tips for making the conversion easier.
 
@@ -44,8 +44,8 @@ This section is intended to help guide you through building your resume. It is r
 
 ---
 
-C) <a id="third_step">Posting a Markdown Page to Github</a>
----
+## C) <a id="third_step">Posting a Markdown Page to Github</a>
+
 
 This section is intended to help you navigate and understand how to use github for the purpose of hosting a page.
 
@@ -53,8 +53,8 @@ This section is intended to help you navigate and understand how to use github f
 
 ---
 
-D) <a id="fouth_step">Fomatting a Markdown Page with Jekyll</a>
----
+## D) <a id="fouth_step">Fomatting a Markdown Page with Jekyll</a>
+
 
 This section is intended to help you format your resume and improve on the basic Markdown appearence. Much of this will be applying a theme and ensuring that all the elements of your Markdown file appear as desired.
 
