@@ -6,7 +6,8 @@ By following this guide, you will be able to post your [resume](https://bochk44.
 
 1. <a id="first_step">Setting up Atom</a>
 ---
----
+
+This section is intended to help you set up the necessary tools for effectively working with Markdown. There are many other editors that you could use but this is one of the more popular and straightforward options.
 
   1. Download [Atom](https://atom.io/) for creating your Markdown files
   2. Open up Atom and click on the "File" tab in the top right corner
@@ -33,7 +34,8 @@ Welcome to the world of Markdown!
 ---
 2. <a id="second_step">Building a Resume in Markdown</a>
 ---
----
+
+This section is intended to help guide you through building your resume. It is rather short compared to the rest as this is not truly the focus of this guide. Instead, this will simply try to give you the tools and couple helpful tips for making the conversion easier.
 
   1. Plan how you want your resume to look. If you have one written in another format, break it up into chunks and pick the order you want it to be read in. Otherwise, start by laying out the basics like work experience, skills, and any other info you think might be relevant.
   2. Write the basic info in the order you want and identify the main sections and headers.
@@ -42,13 +44,15 @@ Welcome to the world of Markdown!
 ---
 3. <a id="third_step">Posting it to Github</a>
 ---
----
+
+This section is intended to help you navigate and understand how to use github for the purpose of hosting a page.
 
   1. Open your Github account. If you do not have one, create an account.
 
 ---
 4. <a id="fouth_step">Fomatting it with Jekyll</a>
 ---
----
+
+This section is intended to help you format your resume and improve on the basic Markdown appearence. Much of this will be applying a theme and ensuring that all the elements of your Markdown file appear as desired.
 
   1. Click on the setting tab in your repository.
