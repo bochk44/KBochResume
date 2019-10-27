@@ -1,10 +1,10 @@
 # **POSTING A RESUME IN MARKDOWN TO GITHUB**
 
-By following this guide, you will be able to post your [resume](https://bochk44.github.io/KBochResume.github/Resume), formatted in [Markdown](https://www.markdownguide.org/), to [Github](https://github.com/). This guide is broken up into 3 parts: Setting up Atom ("Getting Started"),
+By following this guide, you will be able to post your [resume](https://bochk44.github.io/KBochResume.github/Resume), formatted in [Markdown](https://www.markdownguide.org/), to [Github](https://github.com/). This guide is broken up into 3 parts: <a href="first_step">Setting up Atom</a>, <a href="second_step">Building a Resume in Markdown</a>, and <a href="third_step">Posting it to Github</a>
 
 ---
 
-Getting Started
+<a id="first_step">Setting up Atom</a>
 ---
 
 1. Download [Atom](https://atom.io/) for creating your Markdown files
@@ -31,4 +31,8 @@ Welcome to the world of Markdown!
 
 ---
 
-## Building a Resume in Markdown
+<a id="second_step">Building a Resume in Markdown</a>
+---
+
+<a id="third_step">Posting it to Github</a>
+---
