@@ -37,8 +37,8 @@
 | C/C++            |           |  ✓        |           |           |          |
 | JavaScript       |  ✓        |           |           |           |          |
 | Assembly         |  ✓        |           |           |           |          |
-| HTML5            |  ✓        |           |           |           |          |
 | Ruby             |  ✓        |           |           |           |          |
+| HTML5            |  ✓        |           |           |           |          |
 
 **Non-Technical**
 
@@ -46,7 +46,7 @@
 * Highly Adaptable
 * Good writer
 * Friendly and easy-going
-* Good composure despite verbal abuse
+* Can maintain composure despite verbal abuse
 * Works well in high-pressure enviroments
 * Detail-oriented
 
