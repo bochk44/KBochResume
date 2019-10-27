@@ -1,10 +1,10 @@
 # **POSTING A RESUME IN MARKDOWN TO GITHUB**
 
-By following this guide, you will be able to post your [resume](https://bochk44.github.io/KBochResume.github/Resume), formatted in [Markdown](https://www.markdownguide.org/), to [Github](https://github.com/). This guide is broken up into 3 parts: <a href="#first_step">Setting up Atom</a>, <a href="#second_step">Building a Resume in Markdown</a>, and <a href="#third_step">Posting it to Github</a>
+By following this guide, you will be able to post your [resume](https://bochk44.github.io/KBochResume.github/Resume), formatted in [Markdown](https://www.markdownguide.org/), to [Github](https://github.com/). This guide is broken up into 4 parts: <a href="#first_step">Setting up Atom</a>, <a href="#second_step">Building a Resume in Markdown</a>, <a href="#third_step">Posting it to Github</a>, and <a href="#fourth_step">Formatting it with Jekyll</a>.
 
 ---
 
-<a id="first_step">Setting up Atom</a>
+1. <a id="first_step">Setting up Atom</a>
 ---
 
 1. Download [Atom](https://atom.io/) for creating your Markdown files
@@ -18,7 +18,7 @@ By following this guide, you will be able to post your [resume](https://bochk44.
 
 6. Ensure Atom is now fully funtional with Markdown by opening a new file titled "HelloWorld.md" (Note: all Markdown files __MUST__ end with ".md").
 7. Type the following into your file:<br>
-```
+```markdown
 # Hello World!
 Welcome to the world of Markdown!
 ```
@@ -30,9 +30,21 @@ Welcome to the world of Markdown!
 **You are now ready to begin working with Markdown!**
 
 ---
-
-<a id="second_step">Building a Resume in Markdown</a>
+2. <a id="second_step">Building a Resume in Markdown</a>
 ---
 
-<a id="third_step">Posting it to Github</a>
+1. Plan how you want your resume to look. If you have one written in another format, break it up into chunks and pick the order you want it to be read in. Otherwise, start by laying out the basics like work experience, skills, and any other info you think might be relevant.
+2. Write the basic info in the order you want and identify the main sections and headers.
+3. Using [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) adjust the formatting to fit what you believe to be important.
+
 ---
+3. <a id="third_step">Posting it to Github</a>
+---
+
+1. Open your Github account. If you do not have one, create an account.
+
+---
+4. <a id="fouth_step">Fomatting it with Jekyll</a>
+---
+
+1. Click on the setting tab in your repository.
