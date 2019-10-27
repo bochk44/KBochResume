@@ -32,6 +32,7 @@ Welcome to the world of Markdown!
 **You are now ready to begin working with Markdown!**
 
 ---
+
 B) <a id="second_step">Writing a Resume in Markdown</a>
 ---
 
@@ -42,6 +43,7 @@ This section is intended to help guide you through building your resume. It is r
   3. Using [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) adjust the formatting to fit what you believe to be important.
 
 ---
+
 C) <a id="third_step">Posting a Markdown Page to Github</a>
 ---
 
@@ -50,6 +52,7 @@ This section is intended to help you navigate and understand how to use github f
   1. Open your Github account. If you do not have one, create an account.
 
 ---
+
 D) <a id="fouth_step">Fomatting a Markdown Page with Jekyll</a>
 ---
 
