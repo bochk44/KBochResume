@@ -32,7 +32,7 @@ Welcome to the world of Markdown!
 **You are now ready to begin working with Markdown!**
 
 ---
-B) <a id="second_step">Building a Resume in Markdown</a>
+B) <a id="second_step">Writing a Resume in Markdown</a>
 ---
 
 This section is intended to help guide you through building your resume. It is rather short compared to the rest as this is not truly the focus of this guide. Instead, this will simply try to give you the tools and couple helpful tips for making the conversion easier.
