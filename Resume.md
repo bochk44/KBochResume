@@ -54,8 +54,7 @@
 
 ## Education
 
-*Bachelor of Computer Science* (Ongoing - University of Manitoba) <br>
-*Minor in History* (Ongoing - University of Manitoba) <br>
+*Bachelor of Computer Science with Minor in History* (Ongoing - University of Manitoba) <br>
 *High School Diploma* (2017 - Grant Park High School)
 
 ---
