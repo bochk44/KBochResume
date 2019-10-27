@@ -53,7 +53,7 @@ This section is intended to help you navigate and understand how to use github f
 
 ---
 
-## D) <a id="fouth_step">Fomatting a Markdown Page with Jekyll</a>
+## D) <a id="fourth_step">Fomatting a Markdown Page with Jekyll</a>
 
 
 This section is intended to help you format your resume and improve on the basic Markdown appearence. Much of this will be applying a theme and ensuring that all the elements of your Markdown file appear as desired.
