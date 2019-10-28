@@ -40,7 +40,7 @@ This section is intended to help guide you through building your resume. It is r
 
   1. Plan how you want your resume to look. If you have one written in another format, break it up into chunks and pick the order you want it to be read in. Otherwise, start by laying out the basics like work experience, skills, and any other info you think might be relevant.
   2. Write the basic info in the order you want and identify the main sections and headers.
-  3. Using [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) adjust the formatting to fit what you believe to be important.
+  3. Using [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) adjust the formatting to fit what you believe to be important by creating headers and using line breaks to emphasize the chuncks you came up with in the last step. Try to keep it somewhat simple for now since the exact formatting may be altered when we apply Jekyll to it later.
 
 ---
 
@@ -50,6 +50,11 @@ This section is intended to help guide you through building your resume. It is r
 This section is intended to help you navigate and understand how to use github for the purpose of hosting a page.
 
   1. Open your Github account. If you do not have one, create an account.
+  2. Create a new repository. You can do this by clicking on the plus symbol in the top right corner of your screen and selecting "New Repository" from the drop down menu.
+  3. Fill in the details on the "Create a New Repository page". For the sake of postig your resume this means coming up with a name (which likely should be something with some part of your name and the word resume), selecting it to be public, and checking the box to initialize it with a README. Whether you want to provide a description or not is entirely up to you.
+  4. Ensure the information is filled out correctly and click the "Create Repository" button at the bottom of the page.
+  5. 
+  
 
 ---
 
