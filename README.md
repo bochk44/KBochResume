@@ -55,8 +55,12 @@ This section is intended to help you navigate and understand how to use github f
   4. Ensure the information is filled out correctly and click the "Create Repository" button at the bottom of the page. <br> <br>
   5. Click the "Upload Files" button just to the left of the bright green "Clone or Download" button. <br> <br>
   6. Select your resume file from your home directory to add it to your new repository. <br> <br>
-  7. Open the settings for your repository. This can be found on the main page of your repository.
-  ![Github Settings Screenshot](README_Pictures/Screenshot6.png)
+  7. Open the settings for your repository. This can be found on the main page of your repository. <br>
+  ![Github Settings Screenshot](README_Pictures/Screenshot6.png) <br> <br>
+  8. Scroll down the page to find the Github Pages section and change your "Source" to being "master branch".<br> <br>
+  ![Github Pages gif](README_gifs/enable_github_pages.gif) <br> <br>
+  9. Adjust the README file that came pre-built into your repository (assuming you did check the box from step 3 saying you wanted a README included). Currently, your Github page will default to opening your README so you can either include a link to your resume in the readme or copy and paste your resume code into the README. <br> <br>
+  
   
 
 ---
