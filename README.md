@@ -89,7 +89,7 @@ This section is intended to help you format your resume and improve on the basic
   4. Look through the options on the top for one that looks appealing to you. <br> <br>
   5. Scroll down through the example template for the theme and ensure that any elements your resume is using are properly represented in the theme. Things such as tables don't always match the basic Markdown appearence and the theme may make them appear much different. <br> <br>
   6. Click the "Select Theme" button near the top of the page. This will add a file to your repository that will force all the markdown files in your repository to use the theme you selected. <br> <br>
-  7. Edit the new file (it should end with .yml) by adding a line with `title: ` followed by whatever you want to set the title of your pages to be (this will affect both the README and the resume). You can additionally add a description below your title with a new line and adding `description: `. <br> <br>
+  7. Edit the new file (it should end with .yml) by adding a line with `title: ` followed by whatever you want to set the title of your pages to be (it will affect any other pages you have in this repository). You can additionally add a description below your title with a new line and adding `description: `. <br> <br>
   8. Open your page one more time through the enviroments tab (allowing time for it to update) and ensure that your resume looks the way you want it to. If it doesn't or if you changed your mind about the theme you selected, simply repeat steps 1-7 from this section until you find the best theme for you! <br> <br> <br>
   
   ### Congratulations! You now have a fully functional resume posted to GitHub!
@@ -97,7 +97,7 @@ This section is intended to help you format your resume and improve on the basic
   FAQ'S
   ---
   **Can I choose not to name my resume "index.md"?** <br> <br>
-  Yes, but it will be harder to access your GitHub page. Instead of being the default page, it will be **repositoryName.github.io/filename** where "filename" is whatever you chose to name your resume instead of index.io.
+  Yes, but it will be harder to access your GitHub page. Instead of being the default page, it will be **repositoryName.github.io/filename** where "filename" is whatever you chose to name your resume instead of index.md.
  <br> <br> <br>
   **Can I write my resume on GitHub instead of in Atom?** <br> <br>
   Yes, just click new file button to create an empty file and edit it from your repository using the file edit function, committing any changes to the master branch. However, it should be noted that this will add extra time since it takes a bit longer to edit and commit your changes instead of simply saving the file from Atom. <br> <br>
