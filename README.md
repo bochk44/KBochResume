@@ -2,6 +2,14 @@
 
 By following this guide, you will be able to post your [resume](https://bochk44.github.io/ "My Resume"), formatted in [Markdown](https://www.markdownguide.org/ "Markdown Guide"), to [GitHub](https://github.com/ "GitHub Homepage"). This guide is broken up into 4 parts: <a href="#first_step">Setting up Atom</a>, <a href="#second_step">Writing a Resume in Markdown</a>, <a href="#third_step">Posting it to GitHub</a>, and <a href="#fourth_step">Formatting it with Jekyll</a>.
 
+WHO'S THIS FOR?
+---
+This guide is intended for people that are new to Atom, Markdown, GitHub, and Jekyll but are fairly accustomed to using computers in general.
+
+WHAT DO I NEED?
+---
+Before starting to follow this guide
+
 ---
 
 ## A) <a id="first_step">Setting up Atom for Markdown</a>
@@ -12,11 +20,11 @@ This section is intended to help you set up the necessary tools for effectively 
   1. Download [Atom](https://atom.io/ "Download Atom") for creating your Markdown files <br> <br>
   2. Open up Atom and click on the "File" tab in the top right corner <br> <br>
   3. Click "Settings" which should open up a new tab for Settings<br> <br>
-![Settings Screenshot](README_Pictures/Screenshot1.jpg "Settings Location") <br> <br> <br>
+![Settings Screenshot](https://bochk3.github.io/README_Pictures/Screenshot1.jpg "Settings Location") <br> <br> <br>
   4. Click "Packages"<br> <br>
-![Packages Tab Screenshot](README_Pictures/Screenshot2.png "Packages Location") <br> <br> <br>
+![Packages Tab Screenshot](https://bochk3.github.io/README_Pictures/Screenshot2.png "Packages Location") <br> <br> <br>
   5. Use the search bar to find and download the packages "language-markdown", "markdown-writer", and "markdown-preview" <br> <br>
-![Packages Download Screenshot](README_Pictures/Screenshot3.png "Downloads") <br> <br>
+![Packages Download Screenshot](https://bochk3.github.io/README_Pictures/Screenshot3.png "Downloads") <br> <br>
 
   6. Ensure Atom is now fully funtional with Markdown by opening a new file titled "HelloWorld.md" (Note: all Markdown files __MUST__ end with ".md").
   7. Type the following into your file:<br>
@@ -25,9 +33,9 @@ This section is intended to help you set up the necessary tools for effectively 
 Welcome to the world of Markdown!
 ```
   8. Click the "Packages" tab at the tob and find "Markdown Preview" and select "Toggle Preview" <br> <br>
-![Packages Screenshot](README_Pictures/Screenshot4.png "Toggle Preview Location") <br> <br>
+![Packages Screenshot](https://bochk3.github.io/README_Pictures/Screenshot4.png "Toggle Preview Location") <br> <br>
   9. Verify that you are now looking at something similar to the following screen <br> <br>
-![Packages Screenshot](README_Pictures/Screenshot5.png "Example Screen") <br> <br>
+![Packages Screenshot](https://bochk3.github.io/README_Pictures/Screenshot5.png "Example Screen") <br> <br>
 
 **You are now ready to begin working with Markdown!**
 
@@ -36,11 +44,11 @@ Welcome to the world of Markdown!
 ## B) <a id="second_step">Writing a Resume in Markdown</a>
 
 
-This section is intended to help guide you through building your resume. It is rather short compared to the rest as this is not truly the focus of this guide. Instead, this will simply try to give you the tools and couple helpful tips for making the conversion easier. <br>
+This section is intended to help guide you through building your resume. It is rather short compared to the rest as this is not truly the focus of this guide. Instead, this will simply try to give you the tools and a couple helpful tips for making the conversion easier. <br>
 
   1. Plan how you want your resume to look. If you have one written in another format, break it up into chunks and pick the order you want it to be read in. Otherwise, start by laying out the basics like work experience, skills, and any other info you think might be relevant. <br> <br>
   2. Write the basic info in the order you want and identify the main sections and headers. <br> <br>
-  3. Using [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quick Markdown Guide") adjust the formatting to fit what you believe to be important by creating headers and using line breaks to emphasize the chunks you came up with in the last step. Try to keep it somewhat simple for now since the exact formatting may be altered when we apply Jekyll to it later. <br> <br>
+  3. Using [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quick Markdown Guide"), adjust the formatting to fit what you believe to be important by creating headers and using line breaks to emphasize the chunks you came up with in the last step. Try to keep it somewhat simple for now since the exact formatting may be altered when we apply Jekyll to it later. <br> <br>
 
 ---
 
@@ -56,9 +64,9 @@ This section is intended to help you navigate and understand how to use GitHub f
   5. Click the "Upload Files" button just to the left of the bright green "Clone or Download" button. <br> <br>
   6. Select your resume file from your home directory to add it to your new repository. <br> <br>
   7. Open the settings for your repository. This can be found on the main page of your repository. <br> <br>
-  ![GitHub Settings Screenshot](README_Pictures/Screenshot6.png "Setting Location") <br> <br>
+  ![GitHub Settings Screenshot](https://bochk3.github.io/README_Pictures/Screenshot6.png "Setting Location") <br> <br>
   8. Scroll down the page to find the GitHub Pages section and change your "Source" to being "master branch".<br> <br>
-  ![GitHub Pages gif](README_gifs/enable_github_pages.gif "GitHub Pages Location") <br> <br>
+  ![GitHub Pages gif](https://bochk3.github.io/README_gifs/enable_github_pages.gif "GitHub Pages Location") <br> <br>
   9. Find the URL for your GitHub Page by returning to your settings and the Github Pages section. Your URL will be listed at the very top of that section (the very same one you went to in step 8). Copy the URL to your clipboard. <br> <br>
   10. Edit the README file that came pre-built into your repository (assuming you did check the box from step 3 saying you wanted a README included). Currently, your GitHub page will default to opening your README so you will want to include a link to your resume page in the readme using the URL you just copied and adding a slash and the name of your resume file (something like "/your_filename"). Your link should look something like this:
   ```markdown
@@ -66,11 +74,11 @@ This section is intended to help you navigate and understand how to use GitHub f
   ```
   11. Click the "commit changes" button at the bottom of the page to save your changes. <br> <br>
   12. Return to the main pageo of your repository and click on the "Enviroments" tab. <br> <br>
-  ![Enviroment Location Screenshot](README_Pictures/Screenshot7.png "Enviroment Location") <br> <br>
+  ![Enviroment Location Screenshot](https://bochk3.github.io/README_Pictures/Screenshot7.png "Enviroment Location") <br> <br>
   13. Click on the "View Deployment" button to load your page with the README file. <br> <br>
-  ![View Deployment Location Screenshot](README_Pictures/Screenshot8.png "View Deployment Button") <br> <br>
+  ![View Deployment Location Screenshot](https://bochk3.github.io/README_Pictures/Screenshot8.png "View Deployment Button") <br> <br>
   14. Confirm that you are now looking at a page with a URL link with the name of your resume file at the end. (Note: ocassionally, GitHub takes several minutes to update their pages with your files so if your page doesn't load properly or as you expect it to, wait a few minutes and try again) <br> <br>
-    ![Example Basic GitHub Page](README_Pictures/Screenshot9.png "Basic GitHub Page") <br> <br>
+    ![Example Basic GitHub Page](https://bochk3.github.io/README_Pictures/Screenshot9.png "Basic GitHub Page") <br> <br>
   15. Click the link to your resume and confirm that its appearance roughly matches what you saw in the Atom Markdown preview. <br> <br>
   
   
