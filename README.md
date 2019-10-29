@@ -59,8 +59,11 @@ This section is intended to help you navigate and understand how to use github f
   ![Github Settings Screenshot](README_Pictures/Screenshot6.png) <br> <br>
   8. Scroll down the page to find the Github Pages section and change your "Source" to being "master branch".<br> <br>
   ![Github Pages gif](README_gifs/enable_github_pages.gif) <br> <br>
-  9. Find the URL for your Github Page by returning to your settings and the Guthub Pages section. Your URL will be listed at the very top of that section (the very same one you went to in step 8). Copy the URL to your clipboard.
-  10. Edit the README file that came pre-built into your repository (assuming you did check the box from step 3 saying you wanted a README included). Currently, your Github page will default to opening your README so you will want to include a link to your resume page in the readme using the URL you just copied and adding a slash and the name of your resume file (something like "/your_filename") to the end and surrounding the whole URL in square brackets (these ones -> [ ]). It should look something like [https://username.github.io/repository_name/your_filename]. <br> <br>
+  9. Find the URL for your Github Page by returning to your settings and the Guthub Pages section. Your URL will be listed at the very top of that section (the very same one you went to in step 8). Copy the URL to your clipboard. <br> <br>
+  10. Edit the README file that came pre-built into your repository (assuming you did check the box from step 3 saying you wanted a README included). Currently, your Github page will default to opening your README so you will want to include a link to your resume page in the readme using the URL you just copied and adding a slash and the name of your resume file (something like "/your_filename") to the end and surrounding the whole URL in square brackets (these ones -> [ ]). It should look something like:
+  ```markdown
+[https://username.github.io/repository_name/your_filename]
+```
   11. Click the "commit changes" button at the bottom of the page to save your changes. <br> <br>
   12. Paste your URL into the address bar on your browser and hit enter. <br> <br>
   13. Confirm that you are now looking at a page with a URL link with the name of your resume file at the end. (Note: ocassionally, Github takes several minutes to update their pages with your files so if it doesn't load properly or as you expect it to, wait a few minutes and try again) <br> <br>
