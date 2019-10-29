@@ -1,4 +1,4 @@
-# **POSTING A RESUME IN MARKDOWN TO GITHUB**
+# **HOW TO POST A RESUME FORMATTED IN MARKDOWN TO GITHUB**
 
 By following this guide, you will be able to post your [resume](https://bochk44.github.io/KBochResume.github/Resume "My Resume"), formatted in [Markdown](https://www.markdownguide.org/ "Markdown Guide"), to [Github](https://github.com/ "Github Homepage"). This guide is broken up into 4 parts: <a href="#first_step">Setting up Atom</a>, <a href="#second_step">Writing a Resume in Markdown</a>, <a href="#third_step">Posting it to Github</a>, and <a href="#fourth_step">Formatting it with Jekyll</a>.
 
