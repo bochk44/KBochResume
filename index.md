@@ -42,7 +42,7 @@
 
 **Non-Technical**
 
-* Strong inter-personal skills
+* Strong interpersonal skills
 * Highly Adaptable
 * Good writer
 * Friendly and easy-going
