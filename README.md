@@ -91,4 +91,4 @@ This section is intended to help you format your resume and improve on the basic
   7. Edit the new file (it should end with .yml) by adding a line with `title: ` followed by whatever you want to set the title of your pages to be (this will affect both the README and the resume). You can additionally add a description below your title with a new line and adding `description: `. <br> <br>
   8. Open your page one more time through the enviroments tab (allowing time for it to update) and ensure that your resume looks the way you want it to. If it doesn't or if you changed your mind about the theme you selected, simply repeat steps 1-7 from this section until you find the best theme for you! <br> <br> <br>
   
-  #### Congratulations! You now have a fully functional resume posted to Github!
+  ### Congratulations! You now have a fully functional resume posted to Github!
