@@ -68,9 +68,9 @@ This section is intended to help you navigate and understand how to use github f
   12. Return to the main pageo of your repository and click on the "Enviroments" tab. <br> <br>
   ![Enviroment Location Screenshot](README_Pictures/Screenshot7.png "Enviroment Location") <br> <br>
   13. Click on the "View Deployment" button to load your page with the README file. <br> <br>
-  ![View Deployment Location Screenshot](README_Pictures/Screenshot8.png "View Deployment Button") <br> br>
+  ![View Deployment Location Screenshot](README_Pictures/Screenshot8.png "View Deployment Button") <br> <br>
   14. Confirm that you are now looking at a page with a URL link with the name of your resume file at the end. (Note: ocassionally, Github takes several minutes to update their pages with your files so if your page doesn't load properly or as you expect it to, wait a few minutes and try again) <br> <br>
-    ![Example Basic Github Page](README_Pictures/Screenshot9.png "Basic Github Page") <br> br>
+    ![Example Basic Github Page](README_Pictures/Screenshot9.png "Basic Github Page") <br> <br>
   15. Click the link to your resume and confirm that its appearance roughly matches what you saw in the Atom Markdown preview. <br> <br>
   
   
