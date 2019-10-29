@@ -20,11 +20,11 @@ This section is intended to help you set up the necessary tools for effectively 
   1. Download [Atom] for creating your Markdown files <br> <br>
   2. Open up [Atom] and click on the "File" tab in the top right corner <br> <br>
   3. Click "Settings" which should open up a new tab for Settings<br> <br>
-![Settings Screenshot](/README_Pictures/Screenshot1.jpg "Settings Location") <br> <br> <br>
+![Settings Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot1.jpg "Settings Location") <br> <br> <br>
   4. Click "Packages"<br> <br>
-![Packages Tab Screenshot](https://bochk3.github.io/README_Pictures/Screenshot2.png "Packages Location") <br> <br> <br>
+![Packages Tab Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot2.png "Packages Location") <br> <br> <br>
   5. Use the search bar to find and download the packages "language-markdown", "markdown-writer", and "markdown-preview" <br> <br>
-![Packages Download Screenshot](https://bochk3.github.io/README_Pictures/Screenshot3.png "Downloads") <br> <br>
+![Packages Download Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot3.png "Downloads") <br> <br>
 
   6. Ensure [Atom] is now fully funtional with [Markdown] by opening a new file titled "HelloWorld.md" (Note: all Markdown files __MUST__ end with ".md").
   7. Type the following into your file:<br>
@@ -33,9 +33,9 @@ This section is intended to help you set up the necessary tools for effectively 
 Welcome to the world of Markdown!
 ```
   8. Click the "Packages" tab at the tob and find "Markdown Preview" and select "Toggle Preview" <br> <br>
-![Packages Screenshot](https://bochk3.github.io/README_Pictures/Screenshot4.png "Toggle Preview Location") <br> <br>
+![Packages Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot4.png "Toggle Preview Location") <br> <br>
   9. Verify that you are now looking at something similar to the following screen <br> <br>
-![Packages Screenshot](https://bochk3.github.io/README_Pictures/Screenshot5.png "Example Screen") <br> <br>
+![Packages Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot5.png "Example Screen") <br> <br>
 
 **You are now ready to begin working with Markdown!**
 
@@ -60,21 +60,19 @@ This section is intended to help you navigate and understand how to use GitHub f
 
   1. Open your [GitHub] account. If you do not have one, create an account. <br> <br>
   2. Create a new repository. You can do this by clicking on the plus symbol in the top right corner of your screen and selecting "New Repository" from the drop down menu. <br> <br>
-  3. Fill in the details on the "Create a New Repository page". For the sake of postig your resume this means coming up with a name (which likely should be something with some part of your name and the word resume), selecting it to be public, and checking the box to initialize it with a README. Whether you want to provide a description or not is entirely up to you. <br> <br>
+  3. Fill in the details on the "Create a New Repository page". For the sake of postig your resume this means coming up with a name (which should end with .github.io for ease of access later) and selecting it to be public. Whether or not you want to provide a description or have a README is entirely up to you. <br> <br>
   4. Ensure the information is filled out correctly and click the "Create Repository" button at the bottom of the page. <br> <br>
   5. Click the "Upload Files" button just to the left of the bright green "Clone or Download" button. <br> <br>
-  6. Select your resume file (named **index.md**) from your home directory to add it to your new repository. <br> <br>
+  6. Select your resume file (named **index.md**) from the file chooser and add it to your new repository. <br> <br>
   7. Open the settings for your repository. This can be found on the main page of your repository. <br> <br>
-  ![GitHub Settings Screenshot](https://bochk3.github.io/README_Pictures/Screenshot6.png "Setting Location") <br> <br>
+  ![GitHub Settings Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot6.png "Setting Location") <br> <br>
   8. Scroll down the page to find the GitHub Pages section and change your "Source" to being "master branch".<br> <br>
-  ![GitHub Pages gif](https://bochk3.github.io/README_gifs/enable_github_pages.gif "GitHub Pages Location") <br> <br>
-  12. Return to the main page of your repository and click on the "Enviroments" tab. <br> <br>
-  ![Enviroment Location Screenshot](https://bochk3.github.io/README_Pictures/Screenshot7.png "Enviroment Location") <br> <br>
-  13. Click on the "View Deployment" button to load your page with the README file. <br> <br>
-  ![View Deployment Location Screenshot](https://bochk3.github.io/README_Pictures/Screenshot8.png "View Deployment Button") <br> <br>
-  14. Confirm that you are now looking at a page with a URL link with the name of your resume file at the end. (Note: ocassionally, GitHub takes several minutes to update their pages with your files so if your page doesn't load properly or as you expect it to, wait a few minutes and try again) <br> <br>
-    ![Example Basic GitHub Page](https://bochk3.github.io/README_Pictures/Screenshot9.png "Basic GitHub Page") <br> <br>
-  15. Click the link to your resume and confirm that its appearance roughly matches what you saw in the Atom Markdown preview. <br> <br>
+  ![GitHub Pages gif](https://github.com/bochk44/bochk44.github.io/blob/master/README_gifs/enable_github_pages.gif "GitHub Pages Location") <br> <br>
+  9. Return to the main page of your repository and click on the "Enviroments" tab. <br> <br>
+  ![Enviroment Location Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot7.png "Enviroment Location") <br> <br>
+  10. Click on the "View Deployment" button to load your page with your resume (assuming that you did name it **index.md**). <br> <br>
+  ![View Deployment Location Screenshot](https://github.com/bochk44/bochk44.github.io/blob/master/README_Pictures/Screenshot8.png "View Deployment Button") <br> <br>
+  11. Confirm that you are now looking at your resume approximately as it appeared in [Atom]'s preview. If you noticeany differences, return to your repository and edit them until it matches what you originally wanted. (Note: ocassionally, GitHub takes several minutes to update their pages with your files so if your page doesn't load properly or as you expect it to, wait a few minutes and try again) <br> <br>
   
   
 
@@ -83,7 +81,7 @@ This section is intended to help you navigate and understand how to use GitHub f
 ## D) <a id="fourth_step">Fomatting a Markdown Page with Jekyll</a>
 
 
-This section is intended to help you format your resume and improve on the basic Markdown appearence. Much of this will be applying a theme and ensuring that all the elements of your Markdown file appear as desired. <br>
+This section is intended to help you format your resume and improve on the basic [Markdown] appearence. Much of this will be applying a theme and ensuring that all the elements of your [Markdown] file appear as desired. <br>
 
   1. Click on the settings tab in your repository. <br> <br>
   2. Scroll down until you reach the GitHub Pages section of the settings. <br> <br>
@@ -98,12 +96,16 @@ This section is intended to help you format your resume and improve on the basic
   
   FAQ'S
   ---
-  
+  **Can I choose not to name my resume "index.md"?** <br> <br>
+  Yes, but it will be harder to access your GitHub page. Instead of being the default page, it will be **repositoryName.github.io/filename** where "filename" is whatever you chose to name your resume instead of index.io.
+ <br> <br> <br>
+  **Can I write my resume on GitHub instead of in Atom?** <br> <br>
+  Yes, just click new file button to create an empty file and edit it from your repository using the file edit function, committing any changes to the master branch. However, it should be noted that this will add extra time since it takes a bit longer to edit and commit your changes instead of simply saving the file from Atom. <br> <br>
   
   ACKNOWLEDGEMENTS
   ---
   
-  A big thanks to my friends Conner and Jonathan in Group 18! Without them, this guide would have been filled with many more spelling mistakes.
+  A big thanks to my friends Conner and Jonathan in Group 18! Without them, this guide would have been filled with many more spelling mistakes. Cheers lads!
 
 
 [Atom]: https://atom.io/
