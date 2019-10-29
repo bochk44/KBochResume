@@ -61,10 +61,10 @@
 
 ## Interests
 
-* Hockey
+* Reading
+* Playing Hockey
 * Dungeons & Dragons
 * World History
-* Reading
 * Board Games
 * Acting
 * Teaching
