@@ -1,14 +1,14 @@
 # **HOW TO POST A RESUME FORMATTED IN MARKDOWN TO GITHUB**
 
-By following this guide, you will be able to post your [resume](https://bochk44.github.io/ "My Resume"), formatted in [Markdown](https://www.markdownguide.org/ "Markdown Guide"), to [GitHub](https://github.com/ "GitHub Homepage"). This guide is broken up into 4 parts: <a href="#first_step">Setting up Atom</a>, <a href="#second_step">Writing a Resume in Markdown</a>, <a href="#third_step">Posting it to GitHub</a>, and <a href="#fourth_step">Formatting it with Jekyll</a>.
+By following this guide, you will be able to post your [resume](https://bochk44.github.io/ "My Resume"), formatted in [Markdown], to [GitHub]. This guide is broken up into 4 parts: <a href="#first_step">Setting up Atom</a>, <a href="#second_step">Writing a Resume in Markdown</a>, <a href="#third_step">Posting it to GitHub</a>, and <a href="#fourth_step">Formatting it with Jekyll</a>.
 
 WHO'S THIS FOR?
 ---
-This guide is intended for people that are new to Atom, Markdown, GitHub, and Jekyll but are fairly accustomed to using computers in general.
+This guide is intended for people that are new to [Atom], [Markdown], [GitHub], and [Jekyll] but are fairly accustomed to using computers in general.
 
 WHAT DO I NEED?
 ---
-Before starting to follow this guide
+A working computer and a decent internet connection. This guide will walk you through everything else, including a couple downloads, that you will need to post your resume online.
 
 ---
 
@@ -17,10 +17,10 @@ Before starting to follow this guide
 
 This section is intended to help you set up the necessary tools for effectively working with Markdown. There are many other editors that you could use but this is one of the more popular and straightforward options.
 
-  1. Download [Atom](https://atom.io/ "Download Atom") for creating your Markdown files <br> <br>
+  1. Download [Atom] for creating your Markdown files <br> <br>
   2. Open up Atom and click on the "File" tab in the top right corner <br> <br>
   3. Click "Settings" which should open up a new tab for Settings<br> <br>
-![Settings Screenshot](https://bochk3.github.io/README_Pictures/Screenshot1.jpg "Settings Location") <br> <br> <br>
+![Settings Screenshot](bochk3.github.io/README_Pictures/Screenshot1.jpg "Settings Location") <br> <br> <br>
   4. Click "Packages"<br> <br>
 ![Packages Tab Screenshot](https://bochk3.github.io/README_Pictures/Screenshot2.png "Packages Location") <br> <br> <br>
   5. Use the search bar to find and download the packages "language-markdown", "markdown-writer", and "markdown-preview" <br> <br>
@@ -100,3 +100,18 @@ This section is intended to help you format your resume and improve on the basic
   8. Open your page one more time through the enviroments tab (allowing time for it to update) and ensure that your resume looks the way you want it to. If it doesn't or if you changed your mind about the theme you selected, simply repeat steps 1-7 from this section until you find the best theme for you! <br> <br> <br>
   
   ### Congratulations! You now have a fully functional resume posted to GitHub!
+  
+  FAQ'S
+  ---
+  
+  
+  ACKNOWLEDGEMENTS
+  ---
+  
+  A big thanks to my friends Conner and Jonathan in Group 18! Without them, this guide would have been filled with many more spelling mistakes.
+
+
+[Atom]: https://atom.io/
+[GitHub]: https://github.com/
+[Markdown]: https://www.markdownguide.org/
+[Jekyll]: https://jekyllrb.com/
